@@ -1,0 +1,59 @@
+/* style.css - màu sáng hơn */
+
+/* Style cho body */
+body {
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+  background-color: #ffffff; /* nền trắng */
+  color: #333; /* chữ xám đậm dễ đọc */
+}
+
+/* Style cho header */
+header {
+  background-color: #87CEFA; /* xanh da trời nhạt */
+  padding: 20px;
+}
+
+/* Style cho nav */
+nav {
+  background-color: #ADD8E6; /* xanh dương sáng */
+  padding: 10px;
+}
+
+/* Style cho main */
+main {
+  background-color: #F0F8FF; /* nền trắng xanh rất nhạt */
+  font-size: 18px;
+  padding: 15px;
+}
+
+/* Style cho footer */
+footer {
+  background-color: #B0E0E6; /* xanh ngọc nhạt */
+  color: #000; /* chữ đen */
+  text-align: center;
+  padding: 10px;
+}
+
+/* Style cho danh sách li */
+li {
+  display: inline-block;
+  width: 100px;
+  text-align: center;
+  padding: 5px;
+  background-color: #E0FFFF; /* xanh nhạt */
+  margin-right: 5px;
+  border-radius: 5px;
+}
+
+/* Style cho h1 */
+h1 {
+  text-align: center;
+  font-family: 'Georgia', serif;
+  color: #2F4F4F; /* xám đậm */
+}
+
+/* Style cho đoạn văn */
+p {
+  line-height: 1.8;
+}
